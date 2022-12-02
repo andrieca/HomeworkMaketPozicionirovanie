@@ -1,0 +1,177 @@
+.red{
+    height: 100px;
+    width: 100px;
+    border: 2px solid red;
+    position: absolute;
+    top: 100px;
+    left: 100px;
+}
+.blue{
+    height: 100px;
+    width: 100px;
+    border: 2px solid blue;
+    position: absolute;
+    top: 250px;
+    left: 250px;
+}
+.green{
+    height: 100px;
+    width: 100px;
+    border: 2px solid green;
+    position: absolute;
+    top: 400px;
+    left: 400px;
+}
+.red2{
+    height: 100px;
+    width: 100px;
+    border: 2px solid red;
+    position: absolute;
+    top: 600px;
+    left: 100px;
+}
+.blue2{
+    height: 100px;
+    width: 100px;
+    border: 2px solid blue;
+    position: absolute;
+    top: 600px;
+    left: 250px;
+}
+.green2{
+    height: 100px;
+    width: 100px;
+    border: 2px solid green;
+    position: absolute;
+    top: 600px;
+    left: 400px;
+}
+.red3{
+    height: 100px;
+    width: 100px;
+    border: 2px solid red;
+    position: absolute;
+    top: 800px;
+    left: 100px;
+}
+.blue3{
+    height: 100px;
+    width: 100px;
+    border: 2px solid blue;
+    position: absolute;
+    top: 870px;
+    left: 170px;
+}
+.green3{
+    height: 100px;
+    width: 100px;
+    border: 2px solid green;
+    position: absolute;
+    top: 940px;
+    left: 240px;
+}
+.red4{
+    height: 100px;
+    width: 100px;
+    background-color: red;
+    position: absolute;
+    top: 1100px;
+    left: 100px;
+}
+.blue4{
+    height: 100px;
+    width: 100px;
+    background-color: blue;
+    position: absolute;
+    top: 1170px;
+    left: 170px;
+}
+.green4{
+    height: 100px;
+    width: 100px;
+    background-color: green;
+    position: absolute;
+    top: 1240px;
+    left: 240px;
+}
+.red5{
+    height: 100px;
+    width: 100px;
+    background-color: red;
+    position:absolute;
+    top: 1300px;
+    left: 100px;
+    z-index: 1;
+}
+.blue5{
+    height: 100px;
+    width: 100px;
+    background-color: blue;
+    position: absolute;
+    top: 1370px;
+    left: 170px;
+    z-index: 3;
+}
+.green5{
+    height: 100px;
+    width: 100px;
+    background-color: green;
+    position: absolute;
+    top: 1440px;
+    left: 240px;
+    z-index: 2;
+}
+.red6{
+    height: 100px;
+    width: 100px;
+    background-color: red;
+    position:absolute;
+    top: 1600px;
+    left: 100px;
+    z-index: 2;
+}
+.blue6{
+    height: 100px;
+    width: 100px;
+    background-color: blue;
+    position: absolute;
+    top: 1670px;
+    left: 170px;
+    z-index: 1;
+}
+.green6{
+    height: 100px;
+    width: 100px;
+    background-color: green;
+    position: absolute;
+    top: 1740px;
+    left: 240px;
+    z-index: 2;
+}
+.red7{
+    height: 100px;
+    width: 100px;
+    background-color: red;
+    position:absolute;
+    top: 1900px;
+    left: 100px;
+    z-index: 3;
+}
+.blue7{
+    height: 100px;
+    width: 100px;
+    background-color: blue;
+    position: absolute;
+    top: 1970px;
+    left: 170px;
+    z-index: 2;
+}
+.green7{
+    height: 100px;
+    width: 100px;
+    background-color: green;
+    position: absolute;
+    top: 2040px;
+    left: 240px;
+    z-index: 1;
+}

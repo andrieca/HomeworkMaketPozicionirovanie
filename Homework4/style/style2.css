@@ -1,0 +1,99 @@
+.head{
+    width: 500px;
+    height: 500px;
+    background-color: rgb(128, 201, 128);
+    border-radius: 50%;
+}
+.eye1{
+    height: 100px;
+    width: 100px;
+    background-color: aliceblue;
+    border-radius: 50%;
+    position: absolute;
+    z-index: 1;
+    top: 130px;
+    left: 100px;
+}
+.eye2{
+    height: 100px;
+    width: 100px;
+    background-color: aliceblue;
+    border-radius: 50%;
+    position: absolute;
+    z-index: 1;
+    top: 130px;
+    left: 300px;
+}
+.nose{
+    height: 50px;
+    width: 50px;
+    background-color: aliceblue;
+    position: absolute;
+    z-index: 1;
+    top: 250px;
+    left: 230px;
+}
+.mouth{
+    height: 30px;
+    width: 150px;
+    background-color: aliceblue;
+    position: absolute;
+    z-index: 1;
+    top: 350px;
+    left: 180px;
+}
+.head2{
+    width: 500px;
+    height: 500px;
+    background-color: rgb(128, 201, 128);
+    border-radius: 50%;
+}
+.eye12{
+    height: 100px;
+    width: 100px;
+    background-color: aliceblue;
+    border-radius: 50%;
+    position: absolute;
+    z-index: 1;
+    top: 630px;
+    left: 100px;
+}
+.eye22{
+    height: 100px;
+    width: 100px;
+    background-color: aliceblue;
+    border-radius: 50%;
+    position: absolute;
+    z-index: 1;
+    top: 630px;
+    left: 300px;
+}
+.nose2{
+    height: 50px;
+    width: 50px;
+    background-color: aliceblue;
+    position: absolute;
+    z-index: 2;
+    top: 750px;
+    left: 230px;
+}
+.mouth2{
+    height: 150px;
+    width: 150px;
+    background-color: aliceblue;
+    border-radius: 50%;
+    position: absolute;
+    z-index: 1;
+    top: 800px;
+    left: 180px;
+}
+.mouth3{
+    height: 200px;
+    width: 200px;
+    background-color:  rgb(128, 201, 128);
+    border-radius: 50%;
+    position: absolute;
+    z-index: 1;
+    top: 720px;
+    left: 150px;
+}

@@ -1,0 +1,109 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.hat{
+    /* position: fixed;
+    top: 0;
+    left: 0; */
+    width: 100%;
+    height: 80px;
+    background-color: aquamarine;
+    text-align: center;
+}
+nav{
+    position: sticky;
+    top: 0;
+    display: flex;
+    width: 100%;
+    background-color: gray; 
+}
+ nav a{
+    display: inline-block;
+    padding: 10px;
+    color: aliceblue; 
+
+}
+main{
+    display: flex;
+    
+}
+.chik{
+    height: 300px;
+
+}
+
+.prozeduri{
+    /* display: flex; */
+    flex-direction: column;
+    background-color: rgb(219, 218, 218);
+    padding: 20px;
+    height: 1000px;
+    width: 500px;
+}
+.img1{
+    height: 200px;
+    /* background-color: rgb(210, 238, 238); */
+    background-image: url(/img/восстановление.png);
+    background-size: cover;
+    /* flex-basis: 100px; */
+}
+
+.img2{
+    height: 100px; 
+    background-image: url(/img/keratin_art_k.jpg);
+    background-size: cover ;
+    /* flex-basis: 200px; */
+    margin-top: 10px;
+}
+
+.img3{
+    height: 100px; 
+    background-image: url(/img/Curl-Cleansing-от-Joico.jpg);
+    background-size: cover;
+    /* flex-basis: 200px; */
+    margin-top: 10px;
+}
+.img4{
+    height: 100px; 
+    background-image: url(/img/2205941589.jpg);
+    background-size: cover ;
+    /* flex-basis: 200px; */
+    margin-top: 10px;
+}
+
+ .sredstva{
+height: 1000px;
+width: 100%;
+padding: 20px; 
+ /* display: flex;
+flex-direction: column; */
+
+
+}
+
+.foto1{
+     height: 300px; 
+    background-image: url(/img/WELLA.jpg);
+    background-size: auto;
+    background-repeat: no-repeat; 
+}
+.foto2{ 
+     height: 240px; 
+    /* background-color: rgb(210, 238, 238); */
+    margin-top:  20px;
+    background-image: url(/img/505\ \(1\).jpg);
+}
+.cenko{
+    margin: 40px 20px 20px 5px;
+}  
+footer{
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    height: 50px;
+    width: 100%;
+    background-color: grey;
+    text-align: center;
+}
